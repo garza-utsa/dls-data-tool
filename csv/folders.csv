@@ -1,0 +1,8 @@
+type,base asset,path,publishable?,indexable?,display name
+folder,_cms/base-assets/folder,redesign/about,true,true,About
+folder,_cms/base-assets/folder,redesign/about/visit,true,true,Visit
+folder,_cms/base-assets/folder,redesign/admissions,true,true,Admissions
+folder,_cms/base-assets/folder,redesign/admissions/tuition,true,true,Tuition
+folder,_cms/base-assets/folder,redesign/academics,true,true,Academics
+folder,_cms/base-assets/folder,redesign/academics/programs,true,true,Programs
+folder,_cms/base-assets/folder,redesign/students,true,true,Students
