@@ -1,0 +1,657 @@
+{
+    "contentTypeId": "ad6bf52a81736a1b36f691baeb89ce9c",
+    "contentTypePath": "News Post",
+    "structuredData": {
+        "structuredDataNodes": [
+            {
+                "type": "text",
+                "identifier": "TYPE",
+                "text": "Interior",
+                "recycled": false
+            },
+            {
+                "type": "text",
+                "identifier": "SUBMENU",
+                "text": "Yes",
+                "recycled": false
+            },
+            {
+                "type": "group",
+                "identifier": "HEADER",
+                "structuredDataNodes": [
+                    {
+                        "type": "text",
+                        "identifier": "OPTIONS",
+                        "text": "::CONTENT-XML-CHECKBOX::Show Breadcrumbs",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "IMG-INT",
+                        "assetType": "file",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "IMG-ALT",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "IMG-THUMB",
+                        "fileId": "ad6d504881736a1b36f691ba824071ed",
+                        "filePath": "images/learning-remote-child_680.png",
+                        "assetType": "file",
+                        "recycled": false
+                    }
+                ],
+                "recycled": false
+            },
+            {
+                "type": "group",
+                "identifier": "CAROUSEL",
+                "structuredDataNodes": [
+                    {
+                        "type": "group",
+                        "identifier": "SLIDE",
+                        "structuredDataNodes": [
+                            {
+                                "type": "asset",
+                                "identifier": "IMG-INT",
+                                "assetType": "file",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "IMG-ALT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "TITLE",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "HTML",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT2",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "LINK-INT",
+                                "assetType": "page,file,symlink",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-EXT",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    }
+                ],
+                "recycled": false
+            },
+            {
+                "type": "group",
+                "identifier": "ROW",
+                "structuredDataNodes": [
+                    {
+                        "type": "text",
+                        "identifier": "TYPE",
+                        "text": "Custom HTML",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "NEWS-SIZE",
+                        "text": "List",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "EVENT-SIZE",
+                        "text": "Small",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "TITLE",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "SUBTITLE",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "TAB-TYPE",
+                        "text": "Horizontal",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "HTML",
+                        "text": "<div class=\"row\">\r\n<div class=\"col-md-12\">\r\n<p><span><img alt=\"learning-remote-child_680.png\" class=\"\" height=\"329\" src=\"/images/learning-remote-child_680.png\" width=\"400\"/></span></p>\r\n<p><span>JULY 20, 2020</span><span>&amp;#160;</span>&amp;#8212; At a time when almost everything about the next school year is uncertain, UTSA&amp;#8217;s Urban Education Institute sees a path forward.</p>\r\n<p><strong>Mike Villarreal,</strong><span>&amp;#160;</span>director of the Urban Education Institute, and his team have spent the summer surveying almost 2,000 K&amp;#8211;12 public school students, parents and teachers across seven Bexar County school districts and one local network of career-themed schools to find out what worked and what didn&amp;#8217;t during pandemic distance learning. Their findings are helping inform the districts as administrators and teachers plan fall learning.</p>\r\n<p>&amp;#8220;There are very high levels of anxiety right now and it&amp;#8217;s understandable,&amp;#8221; Villarreal said. &amp;#8220;Schools are hearing from teachers that they fear for their health if they have to go back inside classrooms with students, and they&amp;#8217;re hearing from many parents who want their kids back full-time. We have vulnerable students who have experienced trauma amid food insecurity, grief and loss. There are no easy answers and there is so much at stake, but our school districts and institute have learned a lot from last spring.&amp;#8221;</p>\r\n<hr/>\r\n<p><a href=\"https://uei.utsa.edu/_files/pdfs/DistanceLearningBrief1-7-20-20.pdf\"><img alt=\"distance learning brief\" src=\"http://www.utsa.edu/today/2020/images/Distance-Learning-Brief.png\" width=\"200px\"/></a></p>\r\n<p>The findings in the report,<span>&amp;#160;</span><a href=\"https://uei.utsa.edu/_files/pdfs/DistanceLearningBrief1-7-20-20.pdf\">&amp;#8220;Teaching and Learning in the Time of COVID-19,&amp;#8221;</a><span>&amp;#160;</span>are helping inform current local planning on improving distance learning for the fall by participating schools. Superintendents and administrators are using the analysis to create evidence-based strategies strengthening remote learning.</p>\r\n<hr/>\r\n<h3><span><em>&amp;#8220;With these findings, we are giving schools best practices to follow for the fall so that students are more engaged and teachers are more empowered.&amp;#8221;</em></span></h3>\r\n<hr/><hr/>\r\n<p>This research, which focuses on public school teacher experiences and recommendations, is the first brief in a series coming out of the comprehensive survey. The next release this summer will look more deeply at what parents and students said they&amp;#8217;d like to see in any future distance or hybrid-blended learning approaches.</p>\r\n<p>Some of the key findings of this first brief include:</p>\r\n<p><strong>Teachers are adapting and figuring out distance learning, but they need more planning time and training.</strong></p>\r\n<ul>\r\n<li>Most teachers&amp;#8212;up to 95%&amp;#8212;had no previous experience teaching online.</li>\r\n<li>Still, 91% gained new knowledge or skills that informed their distance learning instruction.</li>\r\n</ul>\r\n<p><strong>Students were significantly less engaged during early distance learning.</strong></p>\r\n<ul>\r\n<li>About 60% of teachers said students turned in assignments less frequently compared to prepandemic schooling.</li>\r\n<li>Lessons that grabbed their students&amp;#8217; attention and moved them forward in learning were significantly less frequent compared with normal schooling, according to 65% of all teachers surveyed.</li>\r\n</ul>\r\n<p>The report also has research-based recommendations to improve distance learning from teachers. If schools stay virtual in the fall, teachers say these things must occur for learning to be meaningful and relevant:</p>\r\n<ul>\r\n<li>Create a schedule that allows teachers to establish a social-emotional connection with students to improve engagement and accountability. For some students, this may mean an occasional in-person meeting or class. For others, a one-on-one video meeting.</li>\r\n<li>Set and clearly communicate to teachers, parents and students a uniform grading policy based on a mastery with a feedback function.</li>\r\n<li>Minimize the time teachers spend on compliance reports, staff meetings and as technology support for families and students. Streamline communication between teachers, parents and students using smart-tech solutions.</li>\r\n<li>Schedule planning time ahead of the first day of school and throughout the year so teachers can plan asynchronous and synchronous learning.</li>\r\n<li>Provide tech support for parents, students and teachers so that teachers do not lose instruction time.</li>\r\n<li>Continue closing the digital divide by distributing computer devices and internet hotspots to all students.</li>\r\n<li>Support teachers in creating meaningful, asynchronous content for students that integrates with synchronous virtual or in-person learning.</li>\r\n<li>Simplify the process students use logging into virtual educational platforms and improve the set-up of all platforms so grading is more automated.</li>\r\n</ul>\r\n<hr/>\r\n<p>&amp;#8658;<span>&amp;#160;</span><em><span><strong>Explore the work of the&amp;#160;<a href=\"http://education.utsa.edu/center_urban_ed/\">Urban Education Institute</a>&amp;#160;at UTSA.</strong></span></em></p>\r\n<hr/>\r\n<p>School districts participating in the research project represent some of the largest and most diverse in the city. They include East Central, Edgewood, Harlandale, Judson, Northside, North East and Southwest. An eighth set of schools that partner with traditional public school districts known as the Centers for Applied Science and Technology Network also participated.</p>\r\n<p>&amp;#8220;It&amp;#8217;s important to note that our schools were forced into what we now refer to as &amp;#8216;emergency distance learning&amp;#8217; in the spring,&amp;#8221; Villarreal said. &amp;#8220;The vast majority of them were not equipped for such sweeping and sudden changes. With these findings, we are giving schools best practices to follow for the fall so that students are more engaged and teachers are more empowered. It&amp;#8217;s exciting to witness the adaptability and dedication that most everyone involved in education is showing. It&amp;#8217;s reshaping the modern classroom and our research aims to make sure that it&amp;#8217;s all for the better.&amp;#8221;</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-12\">\r\n<p class=\"author\">&amp;#8212;<span>&amp;#160;</span><a href=\"mailto:nicole.foy@utsa.edu\">Nicole Foy</a></p>\r\n</div>\r\n</div>",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "BUTTON-TEXT",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "BUTTON-TEXT2",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "LINK-INT",
+                        "assetType": "page,file,symlink",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "LINK-EXT",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "EVENT-TAGS",
+                        "text": "::CONTENT-XML-SELECTOR::",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "NEWS-TAGS",
+                        "text": "::CONTENT-XML-SELECTOR::",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "BLOCK",
+                        "assetType": "block",
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "OPTIONS",
+                        "structuredDataNodes": [
+                            {
+                                "type": "text",
+                                "identifier": "BG-COLOR",
+                                "text": "none",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "OPTION1",
+                                "text": "No",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "OPTION2",
+                                "text": "No",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SPACE-BELOW",
+                                "text": "::CONTENT-XML-CHECKBOX::",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SPACE-ABOVE",
+                                "text": "::CONTENT-XML-CHECKBOX::",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "ITEM",
+                        "structuredDataNodes": [
+                            {
+                                "type": "asset",
+                                "identifier": "BLOCK",
+                                "assetType": "block",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "TITLE",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SUBTITLE",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "ADDRESS",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "PHONE-FAX",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "EMAIL",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "IMG-INT",
+                                "assetType": "file",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "IMG-EXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "IMG-ALT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "VIDEO",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "ICON",
+                                "text": "exclamation-circle",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "HTML",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "LINK-INT",
+                                "assetType": "page,file,symlink",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-EXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-TEXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-TEXT2",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "BUTTON",
+                        "structuredDataNodes": [
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT2",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "LINK-INT",
+                                "assetType": "page,file,symlink",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-EXT",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    }
+                ],
+                "recycled": false
+            },
+            {
+                "type": "group",
+                "identifier": "ROW",
+                "structuredDataNodes": [
+                    {
+                        "type": "text",
+                        "identifier": "TYPE",
+                        "text": "Link Grid",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "NEWS-SIZE",
+                        "text": "List",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "EVENT-SIZE",
+                        "text": "Small",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "TITLE",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "SUBTITLE",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "TAB-TYPE",
+                        "text": "Horizontal",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "HTML",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "BUTTON-TEXT",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "BUTTON-TEXT2",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "LINK-INT",
+                        "assetType": "page,file,symlink",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "LINK-EXT",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "EVENT-TAGS",
+                        "text": "::CONTENT-XML-SELECTOR::",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "NEWS-TAGS",
+                        "text": "::CONTENT-XML-SELECTOR::",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "BLOCK",
+                        "assetType": "block",
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "OPTIONS",
+                        "structuredDataNodes": [
+                            {
+                                "type": "text",
+                                "identifier": "BG-COLOR",
+                                "text": "none",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "OPTION1",
+                                "text": "No",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "OPTION2",
+                                "text": "No",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SPACE-BELOW",
+                                "text": "::CONTENT-XML-CHECKBOX::",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SPACE-ABOVE",
+                                "text": "::CONTENT-XML-CHECKBOX::",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "ITEM",
+                        "structuredDataNodes": [
+                            {
+                                "type": "asset",
+                                "identifier": "BLOCK",
+                                "assetType": "block",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "TITLE",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "SUBTITLE",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "ADDRESS",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "PHONE-FAX",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "EMAIL",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "IMG-INT",
+                                "assetType": "file",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "IMG-EXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "IMG-ALT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "VIDEO",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "ICON",
+                                "text": "exclamation-circle",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "HTML",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "LINK-INT",
+                                "assetType": "page,file,symlink",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-EXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-TEXT",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-TEXT2",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    },
+                    {
+                        "type": "group",
+                        "identifier": "BUTTON",
+                        "structuredDataNodes": [
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT",
+                                "text": "Read on UTSA Today",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "BUTTON-TEXT2",
+                                "text": "Read on UTSA Today",
+                                "recycled": false
+                            },
+                            {
+                                "type": "asset",
+                                "identifier": "LINK-INT",
+                                "assetType": "page,file,symlink",
+                                "recycled": false
+                            },
+                            {
+                                "type": "text",
+                                "identifier": "LINK-EXT",
+                                "text": "https://www.utsa.edu/today/2020/07/story/k12-distance-learning-report.html",
+                                "recycled": false
+                            }
+                        ],
+                        "recycled": false
+                    }
+                ],
+                "recycled": false
+            },
+            {
+                "type": "group",
+                "identifier": "SIDE",
+                "structuredDataNodes": [
+                    {
+                        "type": "text",
+                        "identifier": "type",
+                        "text": "None",
+                        "recycled": false
+                    },
+                    {
+                        "type": "asset",
+                        "identifier": "BLOCK",
+                        "assetType": "block",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "TITLE",
+                        "recycled": false
+                    },
+                    {
+                        "type": "text",
+                        "identifier": "HTML",
+                        "recycled": false
+                    }
+                ],
+                "recycled": false
+            }
+        ]
+    },
+    "metadata": {
+        "displayName": "",
+        "title": "UTSA study of K–12 distance learning informs local planning for fall",
+        "summary": "",
+        "teaser": "",
+        "keywords": "",
+        "metaDescription": "",
+        "author": "Nicole Foy",
+        "startDate": "2020-07-20T05:00:00.000Z",
+        "dynamicFields": [
+            {
+                "name": "tags",
+                "fieldValues": [
+                    {
+                        "value": "Featured"
+                    }
+                ]
+            }
+        ]
+    },
+    "reviewOnSchedule": false,
+    "reviewEvery": 180,
+    "parentFolderId": "ad6e0ba481736a1b36f691bad59272c7",
+    "parentFolderPath": "news/2020",
+    "lastModifiedDate": "2024-02-15T15:51:06.302Z",
+    "lastModifiedBy": "rjq475",
+    "createdDate": "2024-02-15T15:51:06.302Z",
+    "createdBy": "rjq475",
+    "path": "news/2020/k12-learning",
+    "siteId": "ad6be5b881736a1b36f691ba55c25b82",
+    "siteName": "COEHD-VPAA-OLD",
+    "tags": [],
+    "name": "k12-learning",
+    "id": "ad76e33f81736a1b36f691baa63d3440"
+}
