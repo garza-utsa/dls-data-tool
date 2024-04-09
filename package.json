@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "htmltidy2": "^1.2.0",
+    "jssoup": "^0.0.15",
     "node-fetch": "^3.3.2",
-    "papaparse": "^5.4.1"
+    "node-libtidy": "^0.4.0",
+    "papaparse": "^5.4.1",
+    "tinymce": "^7.0.0"
   }
 }

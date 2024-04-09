@@ -1,0 +1,459 @@
+{
+	"asset": {
+		"page": {
+			"contentTypeId": "d1f61ff281736a1b3be11e06b15a1d52",
+			"contentTypePath": "College-PROTOTYPE:Standard",
+			"structuredData": {
+				"structuredDataNodes": [
+					{
+						"type": "group",
+						"identifier": "bannerInterior",
+						"structuredDataNodes": [
+							{
+								"type": "text",
+								"identifier": "type",
+								"text": "bannerSlim",
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "banner",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "headline",
+										"recycled": false
+									},
+									{
+										"type": "text",
+										"identifier": "tagline",
+										"recycled": false
+									},
+									{
+										"type": "asset",
+										"identifier": "image",
+										"assetType": "file",
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "link",
+										"structuredDataNodes": [
+											{
+												"type": "text",
+												"identifier": "label",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "type",
+												"text": "None",
+												"recycled": false
+											},
+											{
+												"type": "asset",
+												"identifier": "internal",
+												"assetType": "page,file,symlink",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "external",
+												"text": "https://",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "target",
+												"text": "Parent Window/Tab",
+												"recycled": false
+											}
+										],
+										"recycled": false
+									}
+								],
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "bannerLogo",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "headline",
+										"recycled": false
+									},
+									{
+										"type": "text",
+										"identifier": "tagline",
+										"recycled": false
+									},
+									{
+										"type": "asset",
+										"identifier": "logo",
+										"assetType": "file",
+										"recycled": false
+									},
+									{
+										"type": "text",
+										"identifier": "logo-alt",
+										"recycled": false
+									},
+									{
+										"type": "asset",
+										"identifier": "image",
+										"assetType": "file",
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "link",
+										"structuredDataNodes": [
+											{
+												"type": "text",
+												"identifier": "label",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "type",
+												"text": "None",
+												"recycled": false
+											},
+											{
+												"type": "asset",
+												"identifier": "internal",
+												"assetType": "page,file,symlink",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "external",
+												"text": "https://",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "target",
+												"text": "Parent Window/Tab",
+												"recycled": false
+											}
+										],
+										"recycled": false
+									}
+								],
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "bannerBlue",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "headline",
+										"recycled": false
+									},
+									{
+										"type": "text",
+										"identifier": "striped",
+										"text": "::CONTENT-XML-CHECKBOX::",
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "image",
+										"structuredDataNodes": [
+											{
+												"type": "asset",
+												"identifier": "file",
+												"assetType": "file",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "alt",
+												"recycled": false
+											}
+										],
+										"recycled": false
+									}
+								],
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "bannerRotating",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "chevron",
+										"text": "::CONTENT-XML-CHECKBOX::Yes",
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "slide",
+										"structuredDataNodes": [
+											{
+												"type": "text",
+												"identifier": "headline",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "tagline",
+												"recycled": false
+											},
+											{
+												"type": "asset",
+												"identifier": "image",
+												"assetType": "file",
+												"recycled": false
+											},
+											{
+												"type": "group",
+												"identifier": "link",
+												"structuredDataNodes": [
+													{
+														"type": "text",
+														"identifier": "label",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "type",
+														"recycled": false
+													},
+													{
+														"type": "asset",
+														"identifier": "internal",
+														"assetType": "page,file,symlink",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "external",
+														"text": "https://",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "target",
+														"text": "Parent Window/Tab",
+														"recycled": false
+													}
+												],
+												"recycled": false
+											}
+										],
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "slide",
+										"structuredDataNodes": [
+											{
+												"type": "text",
+												"identifier": "headline",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "tagline",
+												"recycled": false
+											},
+											{
+												"type": "asset",
+												"identifier": "image",
+												"assetType": "file",
+												"recycled": false
+											},
+											{
+												"type": "group",
+												"identifier": "link",
+												"structuredDataNodes": [
+													{
+														"type": "text",
+														"identifier": "label",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "type",
+														"recycled": false
+													},
+													{
+														"type": "asset",
+														"identifier": "internal",
+														"assetType": "page,file,symlink",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "external",
+														"text": "https://",
+														"recycled": false
+													},
+													{
+														"type": "text",
+														"identifier": "target",
+														"text": "Parent Window/Tab",
+														"recycled": false
+													}
+												],
+												"recycled": false
+											}
+										],
+										"recycled": false
+									}
+								],
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "bannerVideo",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "headline",
+										"recycled": false
+									},
+									{
+										"type": "text",
+										"identifier": "tagline",
+										"recycled": false
+									},
+									{
+										"type": "asset",
+										"identifier": "video",
+										"assetType": "file",
+										"recycled": false
+									},
+									{
+										"type": "asset",
+										"identifier": "posterImage",
+										"assetType": "file",
+										"recycled": false
+									},
+									{
+										"type": "group",
+										"identifier": "link",
+										"structuredDataNodes": [
+											{
+												"type": "text",
+												"identifier": "label",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "type",
+												"text": "None",
+												"recycled": false
+											},
+											{
+												"type": "asset",
+												"identifier": "internal",
+												"assetType": "page,file,symlink",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "external",
+												"text": "https://",
+												"recycled": false
+											},
+											{
+												"type": "text",
+												"identifier": "target",
+												"text": "Parent Window/Tab",
+												"recycled": false
+											}
+										],
+										"recycled": false
+									}
+								],
+								"recycled": false
+							},
+							{
+								"type": "group",
+								"identifier": "bannerSlim",
+								"structuredDataNodes": [
+									{
+										"type": "text",
+										"identifier": "headline",
+										"recycled": false
+									}
+								],
+								"recycled": false
+							}
+						],
+						"recycled": false
+					},
+					{
+						"type": "group",
+						"identifier": "pageContent",
+						"structuredDataNodes": [
+							{
+								"type": "text",
+								"identifier": "wysiwyg",
+								"text": "https://teaching.utsa.edu/faculty-learning-communities/",
+								"recycled": false
+							},
+							{
+								"type": "asset",
+								"identifier": "contactCalloutBlock",
+								"assetType": "block",
+								"recycled": false
+							}
+						],
+						"recycled": false
+					},
+					{
+						"type": "group",
+						"identifier": "row",
+						"structuredDataNodes": [
+							{
+								"type": "text",
+								"identifier": "type",
+								"text": "wysiwyg"
+							},
+							{
+								"type": "text",
+								"identifier": "wysiwyg",
+								"text": "imported content"
+							}
+						]
+					}
+				]
+			},
+			"linkRewriting": "inherit",
+			"shouldBePublished": true,
+			"shouldBeIndexed": true,
+			"expirationFolderRecycled": false,
+			"metadata": {
+				"displayName": "Learning Communities",
+				"title": "Learning Communities",
+				"summary": "",
+				"teaser": "",
+				"keywords": "",
+				"metaDescription": "",
+				"author": ""
+			},
+			"reviewOnSchedule": false,
+			"reviewEvery": 180,
+			"parentFolderId": "5dbe0c7681736a1b39636f4e4b312aa5",
+			"parentFolderPath": "professional-development/learning-communities",
+			"lastModifiedDate": "2024-03-27T21:04:45.991Z",
+			"lastModifiedBy": "rjq475",
+			"createdDate": "2024-03-20T21:31:54.452Z",
+			"createdBy": "rjq475",
+			"path": "professional-development/learning-communities/index",
+			"siteId": "db148c3381736a1b5bc85d70a8c90138",
+			"siteName": "TEACHING-VPAA-ASC-HALSTORE",
+			"tags": [],
+			"name": "index",
+			"id": "5dc71eec81736a1b39636f4e067853a4"
+		}
+	},
+	"success": true
+}
